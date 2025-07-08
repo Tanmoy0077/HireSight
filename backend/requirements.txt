@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-google-genai
+langgraph
+pydantic
+PyPDF2
+fastapi
+uvicorn
+python-multipart
+python-dotenv
